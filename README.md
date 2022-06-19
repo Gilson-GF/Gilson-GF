@@ -13,10 +13,10 @@
 
  ### :hammer_and_wrench: Languages and Tools :
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="60" height="60"/>
+<div id="content">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="60" height="60" class="images" />&nbsp;
 
- <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" alt="C#" width="60" height="60"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" alt="C#" width="60" height="60" class="images"/>&nbsp;
 
  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="60" height="60"/>&nbsp;
 
@@ -67,3 +67,26 @@
  ### Repo 
  
  ### Contact 
+ 
+ <style type="text/css" rel="stylesheet">
+  .images {
+     display: inline;
+     margin: 0px;
+     padding: 0px;
+     vertical-align:middle;
+     width:200px;
+ }
+ #content {
+     display: block;
+     margin: 0px;
+     padding: 0px;
+     position: relative;
+     top: 90px;
+     height: auto;
+     max-width: auto;
+     overflow-y: hidden;
+     overflow-x:auto;
+     word-wrap:normal;
+     white-space:nowrap;
+ }
+</style>
