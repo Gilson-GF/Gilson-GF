@@ -1,3 +1,8 @@
+## 👋 Hello! 
+
+## Welcome to my Github profile.
+
+### My name is Gilson Fonseca!
 
 [![card](https://github-readme-stats.vercel.app/api?username=Gilson-GF&theme=dracula&show_icons=true)](https://github.com/Gilson-GF/)
 
