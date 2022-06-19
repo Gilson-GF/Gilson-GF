@@ -12,7 +12,7 @@
 
  ### :hammer_and_wrench: Languages and Tools :
 
-![](https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg)
+https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white
  
  ### Repo 
  
