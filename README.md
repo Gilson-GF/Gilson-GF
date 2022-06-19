@@ -10,7 +10,9 @@
 
 ![GitHub Snake dark](https://github.com/Gilson-GF/Gilson-GF/blob/output/github-contribution-grid-snake-dark.svg)
 
- ### Skills
+ ### :hammer_and_wrench: Languages and Tools :
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
  
  ### Repo 
  
