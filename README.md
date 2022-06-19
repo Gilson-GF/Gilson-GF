@@ -59,11 +59,26 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJs" alt="VueJs" width="60" height="60"/>
  </td>
  
+ <td>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" title="Vuetify" alt="Vuetify" width="60" height="60"/>
+ </td>
+ 
+ <td>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML 5" alt="HTML 5" width="60" height="60"/>
+ </td>
+ 
+ <td>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS 3" alt="CSS 3" width="60" height="60"/>
+ </td>
+ 
+ <td>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="60" height="60"/>
+ </td>
+ 
+ <td>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>
+ </td>
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="60" height="60"/>
