@@ -33,6 +33,19 @@
 
  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="60" height="60"/>&nbsp;
 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJs" alt="VueJs" width="60" height="60"/>&nbsp;
+ 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" title="Vuetify" alt="Vuetify" width="60" height="60"/>&nbsp;
+ 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML 5" alt="HTML 5" width="60" height="60"/>&nbsp;
+ 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS 3" alt="CSS 3" width="60" height="60"/>&nbsp;
+
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+ 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
+ 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="60" height="60"/>&nbsp;
 
  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
 </div>
