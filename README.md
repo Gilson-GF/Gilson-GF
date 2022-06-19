@@ -1,6 +1,5 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"> Hello! 
 
-### Welcome to my Github profile.
+## Welcome to my Github profile.
 
 ### My name is Gilson Fonseca!
 
