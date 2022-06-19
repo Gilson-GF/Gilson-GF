@@ -13,7 +13,7 @@
 
  ### :hammer_and_wrench: Languages and Tools :
 
-<div id="content">
+<div style="display: inline">
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="60" height="60" class="images" />&nbsp;
 
  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" alt="C#" width="60" height="60" class="images"/>&nbsp;
