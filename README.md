@@ -12,7 +12,7 @@
 
  ### :hammer_and_wrench: Languages and Tools :
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg)
  
  ### Repo 
  
