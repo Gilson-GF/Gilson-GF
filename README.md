@@ -8,7 +8,7 @@
 
 [![Gilson-GF](https://github-readme-stats.vercel.app/api/top-langs/?username=Gilson-GF&hide=html&layout=compact&theme=dracula)](https://github.com/Gilson-GF/)
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake dark](https://github.com/Gilson-GF/Gilson-GF/blob/output/github-contribution-grid-snake-dark.svg)
 
  ### Skills
  
